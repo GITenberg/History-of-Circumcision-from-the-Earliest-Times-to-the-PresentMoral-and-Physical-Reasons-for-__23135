@@ -1,0 +1,32 @@
+_repo: History-of-Circumcision-from-the-Earliest-Times-to-the-PresentMoral-and-Physical-Reasons-for-__23135
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Remondino, P. C. (Peter Charles)
+    alias: Remondino, Peter Charles
+    birthdate: 1846
+    deathdate: 1926
+    gutenberg_agent_id: '25702'
+    url: http://www.gutenberg.org/2009/agents/25702
+    wikipedia: http://en.wikipedia.org/wiki/Peter_Charles_Remondino
+description: ''
+gutenberg_issued: '2007-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23135'
+  lccn: 06042282
+language: en
+publication_note: Philadelphia and London; F. A. Davis; 1891
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GN'
+- !lcsh 'Circumcision'
+title: 'History of Circumcision from the Earliest Times to the Present
+
+  Moral and Physical Reasons for its Performance'
+url: http://www.gutenberg.org/ebooks/23135
