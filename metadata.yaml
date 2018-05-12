@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25702
     wikipedia: http://en.wikipedia.org/wiki/Peter_Charles_Remondino
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23135#History-of-Circumcision-from-the-Earliest-Times-to-the-PresentMoral-and-Physical-Reasons-for-_
 gutenberg_issued: '2007-10-21'
 gutenberg_type: Text
 identifiers:
